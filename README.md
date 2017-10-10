@@ -1,3 +1,3 @@
 # Money101
 <!DOCTYPE html>
-<title>Cheese</title>
+<h2>Cheese</h2>
